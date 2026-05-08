@@ -50,7 +50,7 @@ advanced_langgraph_agents/
 
 ## 1. Clone the repository
 
-git clone <your_github_repo>
+git clone https://github.com/varunb1996/Advanced-Langgraph-Agents.git
 
 cd advanced_langgraph_agents
 
