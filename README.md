@@ -136,3 +136,15 @@ http://127.0.0.1:8000/docs
 
 Streamlit UI:
 http://localhost:8501
+
+## 12. MLflow Integration
+
+This project uses MLflow for experiment tracking and observability of the LangGraph agent workflow, including embedding pipelines, query latency, parameters, metrics, and artifacts.
+
+Run MLflow locally:
+
+mlflow ui
+
+Open:
+
+http://127.0.0.1:5000
